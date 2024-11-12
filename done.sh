@@ -6,5 +6,3 @@ cd build
 cmake .. -DROS_BUILD_TYPE=Release
 # cmake .. -DROS_BUILD_TYPE=Debug
 make -j
-
-# adaiojfaoij
